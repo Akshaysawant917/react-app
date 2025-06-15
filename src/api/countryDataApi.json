@@ -1,0 +1,44 @@
+[
+  {
+    "name": "India",
+    "flag": "https://flagcdn.com/in.svg",
+    "capital": "New Delhi",
+    "region": "Asia",
+    "population": 1393409038
+  },
+  {
+    "name": "United States",  
+    "flag": "https://flagcdn.com/us.svg",
+    "capital": "Washington, D.C.",
+    "region": "Americas",
+    "population": 331002651
+  },
+  {
+    "name": "Germany",
+    "flag": "https://flagcdn.com/de.svg",
+    "capital": "Berlin",
+    "region": "Europe",
+    "population": 83783942
+  },
+  {
+    "name": "Brazil",
+    "flag": "https://flagcdn.com/br.svg",
+    "capital": "Brasília",
+    "region": "Americas",
+    "population": 212559417
+  },
+  {
+    "name": "Japan",
+    "flag": "https://flagcdn.com/jp.svg",
+    "capital": "Tokyo",
+    "region": "Asia",
+    "population": 126476461
+  },
+  {
+    "name": "Australia",
+    "flag": "https://flagcdn.com/au.svg",
+    "capital": "Canberra",
+    "region": "Oceania",
+    "population": 25687041
+  }
+]
