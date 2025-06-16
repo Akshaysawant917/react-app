@@ -7,13 +7,14 @@ import { About } from "./pages/About"
 import { Contact } from "./pages/Contact"
 import { Country } from "./pages/Country"
 import { ErrorComp } from "./pages/ErrorComp"
+import { CountryDetail } from "./pages/CountryDetail"
 
 
 const router = createBrowserRouter([
     {
         path: "/",
         element: <AppLayout />,
-        errorElement:<ErrorComp/>,
+        errorElement: <ErrorComp />,
         children: [
             {
                 path: "/",
@@ -30,7 +31,11 @@ const router = createBrowserRouter([
             {
                 path: "/country",
                 element: <Country />
-            }
+            },
+            {
+                path: "/country/:name",
+                element: <CountryDetail />,
+            },
         ]
     }
 

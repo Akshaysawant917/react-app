@@ -10,6 +10,7 @@ export const Headers = () => {
         <nav className="space-x-4">
           <Link to="/" className="text-gray-600 hover:text-blue-600 transition">Home</Link>
           <Link to="/about" className="text-gray-600 hover:text-blue-600 transition">About</Link>
+           <Link to="/country" className="text-gray-600 hover:text-blue-600 transition">Countries</Link>
           <Link to="/contact" className="text-gray-600 hover:text-blue-600 transition">Contact</Link>
         </nav>
       </div>
